@@ -3,7 +3,7 @@
 # Boas Práticas de Formatação na Linguagem DAX
 Este é um exemplo de uma expressão DAX não formatada
 
-VAR Resultado = 
+```VAR Resultado = 
 
 CALCULATE(\
     SUMX( fFaturamento, 'fFaturamento'[[Preço] * 'fFaturamento'[Qtd] ),\
