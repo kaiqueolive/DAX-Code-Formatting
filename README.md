@@ -10,5 +10,5 @@ CALCULATE(\
     FILTER( dProduto, dProduto[Categoria] = "Frutas" )\
     )
 
-RETURN
+RETURNa
 Resultado
